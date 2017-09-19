@@ -19,6 +19,7 @@ public class MainFrame extends Frame {
         this.add(lab);
         this.setLayout(null);
         btnExit.setBackground(new Color(255, 133, 59));
+        btnAdd.setBackground(new Color(255, 120, 121));
         btnExit.setBounds(150,80,80,30);
         btnAdd.setBounds(150,110,80,30);
         lab.setBounds(150,200,80,30);
